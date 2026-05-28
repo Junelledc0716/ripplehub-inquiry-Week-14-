@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="App\Tests\Controllers\HomeTest" file="C:\xampp\htdocs\rippleHUB inquiry\tests\app\Controllers\HomeTest.php" tests="4" assertions="4" errors="0" failures="0" skipped="0" time="0.235360">
+    <testcase name="testHomePage" file="C:\xampp\htdocs\rippleHUB inquiry\tests\app\Controllers\HomeTest.php" line="13" class="App\Tests\Controllers\HomeTest" classname="App.Tests.Controllers.HomeTest" assertions="1" time="0.147462"/>
+    <testcase name="testHomePageContainsTitle" file="C:\xampp\htdocs\rippleHUB inquiry\tests\app\Controllers\HomeTest.php" line="20" class="App\Tests\Controllers\HomeTest" classname="App.Tests.Controllers.HomeTest" assertions="1" time="0.019886"/>
+    <testcase name="testHomePageContainsCTA" file="C:\xampp\htdocs\rippleHUB inquiry\tests\app\Controllers\HomeTest.php" line="27" class="App\Tests\Controllers\HomeTest" classname="App.Tests.Controllers.HomeTest" assertions="1" time="0.048881"/>
+    <testcase name="testHomePageIsNotMissing" file="C:\xampp\htdocs\rippleHUB inquiry\tests\app\Controllers\HomeTest.php" line="34" class="App\Tests\Controllers\HomeTest" classname="App.Tests.Controllers.HomeTest" assertions="1" time="0.019131"/>
+  </testsuite>
+</testsuites>

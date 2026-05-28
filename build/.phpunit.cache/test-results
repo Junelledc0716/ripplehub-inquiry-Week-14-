@@ -1,0 +1,1 @@
+{"version":2,"defects":{"App\\Tests\\Controllers\\HomeTest::testHomePageIsNotMissing":5},"times":{"App\\Tests\\Controllers\\HomeTest::testHomePage":0.081,"App\\Tests\\Controllers\\HomeTest::testHomePageContainsTitle":0.019,"App\\Tests\\Controllers\\HomeTest::testHomePageContainsCTA":0.048,"App\\Tests\\Controllers\\HomeTest::testHomePageIsNotMissing":0.018}}

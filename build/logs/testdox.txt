@@ -1,0 +1,6 @@
+Home (App\Tests\Controllers\Home)
+ [x] Home page
+ [x] Home page contains title
+ [x] Home page contains c t a
+ [x] Home page is not missing
+
